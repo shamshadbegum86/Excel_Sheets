@@ -1,0 +1,14 @@
+Friend_names,Quality
+Aliya,Good
+Bhavya,Funny
+Sujatha,Talk_Active
+Hanima,Intelligent
+Suseela,Silent
+Rehana,Honest
+Devika,Clever
+Perveen,Anger
+Presanna,Hard_Worker
+Janaki,Helpfull
+
+
+

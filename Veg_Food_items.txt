@@ -1,0 +1,11 @@
+S.No.|Veg Food Names|Taste
+1|Tomato Dal|Excellent
+2|Aalu Fry|Spicy
+3|Redge Guard Dal|Good
+4|Samber|Super
+5|Pudina Chatny|Good
+6|Brinjal Dal|Super
+7|Lady's finger fry|Spicy
+8|Aalu Tomato Curry|Good
+9|Tomato Chatny|Spicy
+10|Pongali|Good
